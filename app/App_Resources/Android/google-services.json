@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "192645677110",
+    "firebase_url": "https://myattendance-c2c6e.firebaseio.com",
+    "project_id": "myattendance-c2c6e",
+    "storage_bucket": "myattendance-c2c6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192645677110:android:d63f3725b241f51f",
+        "android_client_info": {
+          "package_name": "br.com.parallelum.MyAttendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192645677110-k0h9d5jjlt8ue643ulen4sdcgpc48kf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwXphOMD5pwDoqoFeGItFWC4t-04zVxDQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
